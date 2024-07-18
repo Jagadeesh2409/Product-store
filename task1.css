@@ -91,6 +91,7 @@ main {
 }
 .product:hover{
     transform: scale(1.06);
+    background-color: aquamarine;
 }
 footer{
     width: 100%;

@@ -26,7 +26,7 @@ Products are displayed in a grid layout.
 Each product shows a thumbnail image, title, and price.
 
 ## Project Structure
-
+```
 product-store/
 
 index.html          # The main HTML file
@@ -36,6 +36,7 @@ index.css          # CSS file for styling
 index.js           # JavaScript file for functionality
 
 README.md           # This README file
+```
    
 ## Running the Project Locally
 
@@ -43,14 +44,13 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 
-**Open your terminal and run the following command:**:
-   ```bash
-git clone https://github.com/Jagadeesh2409/Product-store.git
+Open your terminal and run the following command:```
+git clone https://github.com/Jagadeesh2409/Product-store.git```
 
 
 2.Navigate to the project directory:
 
-cd product-store
+```cd product-store```
 
 3.Open the project:
 

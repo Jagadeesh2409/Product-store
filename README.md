@@ -9,7 +9,6 @@ Open your terminal and run the following command:
 bash
 Copy code
 git clone https://github.com/Jagadeesh2409/Product-store.git
-Replace YOUR_USERNAME with your actual GitHub username.
 
 2.Navigate to the project directory:
 

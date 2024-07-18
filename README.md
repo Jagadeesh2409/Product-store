@@ -13,7 +13,7 @@ This project is a simple product store web application that allows users to sear
    git clone https://github.com/Jagadeesh2409/Product-store.git
    cd product-store
    
-##Usage
+## Usage
 1.Search for Products:
 
 Use the search bar at the top of the page to search for products by title.
@@ -25,7 +25,7 @@ If no products match the search term, a "No items found" message will be display
 Products are displayed in a grid layout.
 Each product shows a thumbnail image, title, and price.
 
-##Project Structure
+## Project Structure
 
 product-store/
 index.html          # The main HTML file
@@ -33,7 +33,7 @@ index.css          # CSS file for styling
 index.js           # JavaScript file for functionality
 README.md           # This README file
    
-#WRunning the Project Locally
+## Running the Project Locally
 
 To run this project locally, follow these steps:
 

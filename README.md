@@ -7,7 +7,6 @@ To run this project locally, follow these steps:
 Open your terminal and run the following command:
 
 bash
-Copy code
 git clone https://github.com/Jagadeesh2409/Product-store.git
 
 2.Navigate to the project directory:
